@@ -965,4 +965,11 @@
       <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="tests\test_01.sps" />
+    <None Include="tests\test_02.sps" />
+    <None Include="tests\test_03.sps" />
+    <None Include="tests\test_04.sps" />
+    <None Include="tests\test_05.sps" />
+  </ItemGroup>
 </Project>

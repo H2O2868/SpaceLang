@@ -326,6 +326,13 @@
     <ClInclude Include="src\generated\SpaceVisitor.h" />
     <ClInclude Include="src\spc.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="tests\test_01.sps" />
+    <None Include="tests\test_02.sps" />
+    <None Include="tests\test_03.sps" />
+    <None Include="tests\test_04.sps" />
+    <None Include="tests\test_05.sps" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
