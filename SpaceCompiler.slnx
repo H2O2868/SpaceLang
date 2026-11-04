@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Release" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="SpaceCompiler/SpaceCompiler.vcxproj" Id="7f6b32f8-7420-4ddd-bff3-c6ef2d617c2f" />
+</Solution>
